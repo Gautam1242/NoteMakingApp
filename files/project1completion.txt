@@ -1,0 +1,1 @@
+learn about static files learn about dynamic routing , learn about ejs , learn about params , learn about fs module , learn about passing data , 
